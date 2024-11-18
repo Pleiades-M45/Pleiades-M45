@@ -4,7 +4,7 @@ class Student:
 
     def __init__(self):
         self.name = "Thasneem Shahul"
-        self.role = "Master of Computer Applications"
+        self.role = "Masters in Computer Applications"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find my profile interesting :)")
