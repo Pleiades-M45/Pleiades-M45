@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Quantico&size=22&duration=4000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Welcome+to+Thasneem+Shahul's+Github+😉" alt="" />
+   <img src="https://readme-typing-svg.demolab.com?font=Quantico&size=22&duration=4000&pause=1700&color=0078D4&center=true&vCenter=true&width=435&lines=Welcome+to+Thasneem+Shahul's+Github+😉" alt="" />
 </div>
 
 ```python
