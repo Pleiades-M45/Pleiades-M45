@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Quantico&size=22&duration=4000&pause=1700&color=0078D4&center=true&vCenter=true&width=435&lines=Welcome+to+Thasneem+Shahul's+Github+😉" alt="" />
+   <img src="https://readme-typing-svg.demolab.com?font=Quantico&size=22&duration=4000&pause=1700&color=0078D4&center=true&vCenter=true&width=500&lines=Hey! You've entered Thasneem's Code Zone !+😉" alt="" />
 </div>
 
 ```python
@@ -11,7 +11,7 @@ class Student:
         self.role = "Masters in Computer Applications"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find my profile interesting :)")
+        print("Welcome to my GitHub! Feel free to explore my projects :)")
 
 me = Student()
 me.say_hi()
