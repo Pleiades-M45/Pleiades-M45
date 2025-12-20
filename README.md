@@ -2,20 +2,22 @@
    <img src="https://readme-typing-svg.demolab.com?font=Quantico&size=22&duration=4000&pause=1700&color=0078D4&center=true&vCenter=true&width=500&lines=Hey! You've entered Thasneem's Code Zone !+😉" alt="" />
 </div>
 
-```python
+```ini
+[+] Initiating breach sequence...
+[+] Target: github.com/Pleiades-M45
+[+] Status: Access Granted
 
-class Student:
+--- USER PROFILE ---
+Name    : Thasneem Shahul
+Role    : Masters in Computer Applications
+Domain  : Offensive Security | Red Teaming
 
-    def __init__(self):
-        self.name = "Thasneem Shahul"
-        self.role = "Masters in Computer Applications"
-
-    def say_hi(self):
-        print("Welcome to my GitHub! Feel free to explore my projects :)")
-
-me = Student()
-me.say_hi()
+[!] Recon complete... portal returned 404 Job Career Not Found.
+[!] Exploit failed... target patched with “5 years experience required.”
+[!] Persistence denied... IAM policy = "NoJobForYou".
+[!] Shutting down terminal...
 ```
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pleiades-M45&label=PROFILE+VIEWS&color=0d3cb1&style=flat&base=500" alt="" /> </p>
 
