@@ -12,6 +12,7 @@ class Student:
 
     def say_hi(self):
         print("Welcome to my GitHub! Feel free to explore my projects :)")
+
 me = Student()
 me.say_hi()
 ```
